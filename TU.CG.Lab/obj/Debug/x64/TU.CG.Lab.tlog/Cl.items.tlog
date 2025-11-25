@@ -1,0 +1,13 @@
+D:\KG\TU.CG.Lab2\deps\src\glad.c;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\glad.obj
+D:\KG\TU.CG.Lab2\deps\src\stb_image.c;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\stb_image.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Applications\Application_GettingStarted.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\Application_GettingStarted.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Applications\Application_Lighting.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\Application_Lighting.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Graphics\ElementBuffer.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\ElementBuffer.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Graphics\ShaderProgram.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\ShaderProgram.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Graphics\VertexArray.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\VertexArray.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Graphics\VertexAttributeContainer.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\VertexAttributeContainer.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Graphics\VertexBuffer.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\VertexBuffer.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Input\InputManager.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\InputManager.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\main.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\main.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Utils\Camera3D.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\Camera3D.obj
+D:\KG\TU.CG.Lab2\TU.CG.Lab\Utils\Window.cpp;D:\KG\TU.CG.Lab2\TU.CG.Lab\obj\Debug\x64\Window.obj
